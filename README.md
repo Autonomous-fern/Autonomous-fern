@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Autonomous-fern
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python, R
-- 💞️ I’m looking to collaborate on exciting and "useless" projects
+- 🌱 I’m currently learning data mining, database manipulation, machine learning
+- 💞️ I’m looking to collaborate on Kaggle competitions
 - 📫 How to reach me : autonomous.fern@gmail.com
 
 <!---
